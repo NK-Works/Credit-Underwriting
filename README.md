@@ -106,9 +106,11 @@ The app provides the following input fields in the sidebar:
 The application is live and can be accessed at:
 [AI Predictive Methods for Credit Underwriting](https://ai-predictive-methods-for-credit-underwriting-csu8gym5fctrsyru.streamlit.app/)
 
-The presentation for the applicaiton ca be accessed at: 
+The presentation for the applicaiton can be accessed at: 
 [AI Predictive Model Presentation](https://www.canva.com/design/DAGd4QHNyMw/PqKP2SuqxH5LwEoZloEbwg/view?utm_content=DAGd4QHNyMw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0d00988ec0)
 
+The video for the application can be accessed at:
+[AI Predictive Model Video](https://drive.google.com/file/d/1PLPSnALRIIDETuAmN2-EdO5o5C75K07T/view?usp=sharing)
 To deploy the app on **Streamlit Cloud**:
 
 To deploy the app on **Streamlit Cloud**:
