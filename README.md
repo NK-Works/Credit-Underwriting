@@ -111,6 +111,7 @@ The presentation for the applicaiton can be accessed at:
 
 The video for the application can be accessed at:
 [AI Predictive Model Video](https://drive.google.com/file/d/1PLPSnALRIIDETuAmN2-EdO5o5C75K07T/view?usp=sharing)
+
 To deploy the app on **Streamlit Cloud**:
 
 To deploy the app on **Streamlit Cloud**:
